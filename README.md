@@ -1,5 +1,5 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/zakarum4?style=social)](https://twitter.com/intent/user?screen_name=zakarum4)
-[![Mail me](https://img.shields.io/badge/zakarumych-email-critical)](mailto:zakarumych@ya.ru)
+[![Mail me](https://img.shields.io/badge/zaq.dev@icloud-email-critical)](mailto:zaq.dev@icloud.com)
 
 ### Hi there 👋, I'm Roman!
 
